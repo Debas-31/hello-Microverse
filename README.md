@@ -11,7 +11,7 @@
 
 ### Live Demo
 
-[Visit the Live Demo](https://debas-31.github.io/hello-Microverse)
+[Visit the Live Demo](https://debas-31.github.io/hello-Microverse/)
 
 ### Authors
 
@@ -25,8 +25,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Debas-31/hello-Microverse/issues).
-
+Feel free to check the [issues page](https://github.com/Debas-31/hello-Microverse/issues)
 ### Show your support
 
 Give a ⭐️ if you like this project!
